@@ -21,7 +21,8 @@ var keperluan_arr = new Array(
 "Surat Keterangan Jual Beli Bahan Bakar Minyak",
 "Surat Keterangan Bepergian",
 "Surat Keterangan Orang Yang Sama",
-"Surat Keterangan BPJS Mandiri");
+"Surat Keterangan BPJS Mandiri",
+"Lainnya");
 
 // sehinggas
 var s_a = new Array();
@@ -49,6 +50,7 @@ s_a[20]="A. Bahwa orang tersebut diatas benar-benar penduduk atau berdomisili di
 s_a[21]="A. Bahwa orang tersebut diatas benar-benar penduduk atau berdomisili di Desa Prambatan Lor yang membutuhkan Surat Keterangan Bepergian";
 s_a[22]="A. Bahwa orang tersebut diatas benar-benar penduduk atau berdomisili di Desa Prambatan Lor yang membutuhkan Surat Keterangan Orang Yang Sama";
 s_a[23]="A. Bahwa orang tersebut diatas benar-benar belum punya kartu BPJS";
+s_a[24]="A. ..............................................................";
 
 
 
